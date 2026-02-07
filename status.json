@@ -1,35 +1,35 @@
 {
-  "last_updated": "2026-02-06T12:00:00Z",
+  "last_updated": "2026-02-07T23:21:53.926Z",
   "services": [
     {
       "id": "licensing-api",
       "name": "Licensing API",
       "status": "operational",
-      "response_time_ms": 145
+      "response_time_ms": null
     },
     {
       "id": "transcription-api",
       "name": "Transcription API",
       "status": "operational",
-      "response_time_ms": 89
+      "response_time_ms": null
     },
     {
       "id": "landing",
       "name": "Website",
       "status": "operational",
-      "response_time_ms": 52
+      "response_time_ms": null
     },
     {
       "id": "admin",
       "name": "Admin Dashboard",
       "status": "operational",
-      "response_time_ms": 61
+      "response_time_ms": null
     },
     {
       "id": "portal",
       "name": "Customer Portal",
       "status": "operational",
-      "response_time_ms": 55
+      "response_time_ms": null
     }
   ]
 }
