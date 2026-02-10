@@ -1,3 +1,14 @@
 {
-  "incidents": []
+  "incidents": [
+    {
+      "id": "inc_20260210001027_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "down",
+      "started_at": "2026-02-10T00:10:27.488Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
+    }
+  ]
 }
