@@ -16,8 +16,8 @@
       "service_name": "Transcription API",
       "status": "down",
       "started_at": "2026-02-10T20:00:37.590Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-02-10T20:10:27.736Z",
+      "duration_seconds": 590,
       "message": "timeout of 10000ms exceeded"
     }
   ]
