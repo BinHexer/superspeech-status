@@ -19,6 +19,16 @@
       "resolved_at": "2026-02-10T20:10:27.736Z",
       "duration_seconds": 590,
       "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260214142027_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "down",
+      "started_at": "2026-02-14T14:20:27.711Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
     }
   ]
 }
