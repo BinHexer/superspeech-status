@@ -49,6 +49,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 530"
+    },
+    {
+      "id": "inc_20260220202206_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "degraded",
+      "started_at": "2026-02-20T20:22:06.521Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "Service reporting degraded"
     }
   ]
 }
