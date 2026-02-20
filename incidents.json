@@ -46,8 +46,8 @@
       "service_name": "Transcription API",
       "status": "down",
       "started_at": "2026-02-19T13:33:06.464Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-02-20T22:11:06.582Z",
+      "duration_seconds": 117480,
       "message": "HTTP 530"
     },
     {
