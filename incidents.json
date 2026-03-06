@@ -59,6 +59,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "Service reporting degraded"
+    },
+    {
+      "id": "inc_20260306232226_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-03-06T23:22:26.372Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "getaddrinfo ENOTFOUND superspeech.live"
     }
   ]
 }
