@@ -66,8 +66,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-06T23:22:26.372Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-06T23:55:26.394Z",
+      "duration_seconds": 1980,
       "message": "getaddrinfo ENOTFOUND superspeech.live"
     }
   ]
