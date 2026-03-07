@@ -76,8 +76,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-07T19:22:31.619Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-07T19:33:26.436Z",
+      "duration_seconds": 654,
       "message": "getaddrinfo EAI_AGAIN superspeech.live"
     }
   ]
