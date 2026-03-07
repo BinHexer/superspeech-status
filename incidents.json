@@ -69,6 +69,16 @@
       "resolved_at": "2026-03-06T23:55:26.394Z",
       "duration_seconds": 1980,
       "message": "getaddrinfo ENOTFOUND superspeech.live"
+    },
+    {
+      "id": "inc_20260307192231_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-03-07T19:22:31.619Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "getaddrinfo EAI_AGAIN superspeech.live"
     }
   ]
 }
