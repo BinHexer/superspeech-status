@@ -56,8 +56,8 @@
       "service_name": "Transcription API",
       "status": "degraded",
       "started_at": "2026-02-20T20:22:06.521Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-09T18:22:26.447Z",
+      "duration_seconds": 1461619,
       "message": "Service reporting degraded"
     },
     {
@@ -86,8 +86,8 @@
       "service_name": "Licensing API",
       "status": "down",
       "started_at": "2026-03-09T18:11:42.315Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-09T18:22:26.447Z",
+      "duration_seconds": 644,
       "message": "getaddrinfo EAI_AGAIN api.superspeech.live"
     },
     {
