@@ -79,6 +79,26 @@
       "resolved_at": "2026-03-07T19:33:26.436Z",
       "duration_seconds": 654,
       "message": "getaddrinfo EAI_AGAIN superspeech.live"
+    },
+    {
+      "id": "inc_20260309181142_licensing-api",
+      "service_id": "licensing-api",
+      "service_name": "Licensing API",
+      "status": "down",
+      "started_at": "2026-03-09T18:11:42.315Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "getaddrinfo EAI_AGAIN api.superspeech.live"
+    },
+    {
+      "id": "inc_20260309181142_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "down",
+      "started_at": "2026-03-09T18:11:42.315Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "getaddrinfo EAI_AGAIN transcribe.superspeech.cc"
     }
   ]
 }
