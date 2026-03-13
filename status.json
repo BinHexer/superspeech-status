@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-13T20:22:59.471Z",
+  "last_updated": "2026-03-13T20:33:26.391Z",
   "services": [
     {
       "id": "licensing-api",
@@ -16,13 +16,13 @@
     {
       "id": "landing",
       "name": "Website",
-      "status": "down",
+      "status": "operational",
       "response_time_ms": null
     },
     {
       "id": "admin",
       "name": "Admin Dashboard",
-      "status": "down",
+      "status": "operational",
       "response_time_ms": null
     },
     {
