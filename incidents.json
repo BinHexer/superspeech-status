@@ -126,8 +126,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-13T20:22:59.471Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-13T20:33:26.391Z",
+      "duration_seconds": 626,
       "message": "timeout of 10000ms exceeded"
     },
     {
@@ -136,8 +136,8 @@
       "service_name": "Admin Dashboard",
       "status": "down",
       "started_at": "2026-03-13T20:22:59.471Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-13T20:33:26.391Z",
+      "duration_seconds": 626,
       "message": "timeout of 10000ms exceeded"
     }
   ]
