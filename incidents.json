@@ -119,6 +119,26 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 502"
+    },
+    {
+      "id": "inc_20260313202259_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-03-13T20:22:59.471Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260313202259_admin",
+      "service_id": "admin",
+      "service_name": "Admin Dashboard",
+      "status": "down",
+      "started_at": "2026-03-13T20:22:59.471Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
