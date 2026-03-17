@@ -166,8 +166,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-17T16:22:26.423Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-17T16:33:26.401Z",
+      "duration_seconds": 659,
       "message": "HTTP 502"
     }
   ]
