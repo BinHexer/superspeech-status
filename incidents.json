@@ -146,8 +146,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-17T15:33:26.485Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-17T15:55:27.037Z",
+      "duration_seconds": 1320,
       "message": "HTTP 502"
     },
     {
@@ -156,8 +156,8 @@
       "service_name": "Licensing API",
       "status": "down",
       "started_at": "2026-03-17T15:44:26.512Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-17T15:55:27.037Z",
+      "duration_seconds": 660,
       "message": "HTTP 502"
     }
   ]
