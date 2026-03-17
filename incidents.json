@@ -149,6 +149,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 502"
+    },
+    {
+      "id": "inc_20260317154426_licensing-api",
+      "service_id": "licensing-api",
+      "service_name": "Licensing API",
+      "status": "down",
+      "started_at": "2026-03-17T15:44:26.512Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
     }
   ]
 }
