@@ -139,6 +139,16 @@
       "resolved_at": "2026-03-13T20:33:26.391Z",
       "duration_seconds": 626,
       "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260317153326_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-03-17T15:33:26.485Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
     }
   ]
 }
