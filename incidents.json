@@ -169,6 +169,26 @@
       "resolved_at": "2026-03-17T16:33:26.401Z",
       "duration_seconds": 659,
       "message": "HTTP 502"
+    },
+    {
+      "id": "inc_20260320180046_licensing-api",
+      "service_id": "licensing-api",
+      "service_name": "Licensing API",
+      "status": "down",
+      "started_at": "2026-03-20T18:00:46.297Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260320180046_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-03-20T18:00:46.297Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
