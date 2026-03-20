@@ -1,10 +1,10 @@
 {
-  "last_updated": "2026-03-20T14:22:26.406Z",
+  "last_updated": "2026-03-20T18:00:46.297Z",
   "services": [
     {
       "id": "licensing-api",
       "name": "Licensing API",
-      "status": "operational",
+      "status": "down",
       "response_time_ms": null
     },
     {
@@ -16,7 +16,7 @@
     {
       "id": "landing",
       "name": "Website",
-      "status": "operational",
+      "status": "down",
       "response_time_ms": null
     },
     {
