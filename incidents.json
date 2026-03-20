@@ -176,8 +176,8 @@
       "service_name": "Licensing API",
       "status": "down",
       "started_at": "2026-03-20T18:00:46.297Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-20T18:11:26.687Z",
+      "duration_seconds": 640,
       "message": "timeout of 10000ms exceeded"
     },
     {
@@ -186,8 +186,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-20T18:00:46.297Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-20T18:11:26.687Z",
+      "duration_seconds": 640,
       "message": "timeout of 10000ms exceeded"
     }
   ]
