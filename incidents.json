@@ -189,6 +189,16 @@
       "resolved_at": "2026-03-20T18:11:26.687Z",
       "duration_seconds": 640,
       "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260328175551_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "degraded",
+      "started_at": "2026-03-28T17:55:51.459Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 404"
     }
   ]
 }
