@@ -199,6 +199,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 404"
+    },
+    {
+      "id": "inc_20260330204503_licensing-api",
+      "service_id": "licensing-api",
+      "service_name": "Licensing API",
+      "status": "down",
+      "started_at": "2026-03-30T20:45:03.686Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
