@@ -209,6 +209,36 @@
       "resolved_at": "2026-03-30T20:55:51.391Z",
       "duration_seconds": 647,
       "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260331094511_licensing-api",
+      "service_id": "licensing-api",
+      "service_name": "Licensing API",
+      "status": "down",
+      "started_at": "2026-03-31T09:45:11.468Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260331094511_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "down",
+      "started_at": "2026-03-31T09:45:11.468Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
+    },
+    {
+      "id": "inc_20260331094511_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-03-31T09:45:11.468Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
