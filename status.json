@@ -1,22 +1,22 @@
 {
-  "last_updated": "2026-03-31T09:45:11.468Z",
+  "last_updated": "2026-03-31T09:55:51.658Z",
   "services": [
     {
       "id": "licensing-api",
       "name": "Licensing API",
-      "status": "down",
+      "status": "operational",
       "response_time_ms": null
     },
     {
       "id": "transcription-api",
       "name": "Transcription API",
-      "status": "down",
+      "status": "operational",
       "response_time_ms": null
     },
     {
       "id": "landing",
       "name": "Website",
-      "status": "down",
+      "status": "operational",
       "response_time_ms": null
     },
     {
