@@ -196,8 +196,8 @@
       "service_name": "Transcription API",
       "status": "degraded",
       "started_at": "2026-03-28T17:55:51.459Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-31T09:55:51.658Z",
+      "duration_seconds": 230400,
       "message": "HTTP 404"
     },
     {
@@ -216,8 +216,8 @@
       "service_name": "Licensing API",
       "status": "down",
       "started_at": "2026-03-31T09:45:11.468Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-31T09:55:51.658Z",
+      "duration_seconds": 640,
       "message": "timeout of 10000ms exceeded"
     },
     {
@@ -236,8 +236,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-03-31T09:45:11.468Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-03-31T09:55:51.658Z",
+      "duration_seconds": 640,
       "message": "timeout of 10000ms exceeded"
     }
   ]
