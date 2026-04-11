@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-04-11T06:55:51.407Z",
+  "last_updated": "2026-04-11T09:55:51.329Z",
   "services": [
     {
       "id": "licensing-api",
@@ -10,7 +10,7 @@
     {
       "id": "transcription-api",
       "name": "Transcription API",
-      "status": "operational",
+      "status": "down",
       "response_time_ms": null
     },
     {
