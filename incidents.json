@@ -249,6 +249,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 502"
+    },
+    {
+      "id": "inc_20260413161151_transcription-api",
+      "service_id": "transcription-api",
+      "service_name": "Transcription API",
+      "status": "down",
+      "started_at": "2026-04-13T16:11:51.425Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
     }
   ]
 }
