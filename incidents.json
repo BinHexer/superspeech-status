@@ -259,6 +259,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 502"
+    },
+    {
+      "id": "inc_20260414110111_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-04-14T11:01:11.420Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
