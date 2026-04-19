@@ -289,6 +289,16 @@
       "resolved_at": "2026-04-15T11:11:51.522Z",
       "duration_seconds": 640,
       "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260419194451_licensing-api",
+      "service_id": "licensing-api",
+      "service_name": "Licensing API",
+      "status": "down",
+      "started_at": "2026-04-19T19:44:51.708Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "HTTP 502"
     }
   ]
 }
