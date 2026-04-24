@@ -256,8 +256,8 @@
       "service_name": "Transcription API",
       "status": "down",
       "started_at": "2026-04-13T16:11:51.425Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-04-24T21:33:51.501Z",
+      "duration_seconds": 969720,
       "message": "HTTP 502"
     },
     {
