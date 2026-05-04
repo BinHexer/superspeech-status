@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T23:11:03.123Z",
+  "last_updated": "2026-05-04T23:33:19.253Z",
   "services": [
     {
       "id": "licensing-api",
@@ -16,7 +16,7 @@
     {
       "id": "landing",
       "name": "Website",
-      "status": "operational",
+      "status": "down",
       "response_time_ms": null
     },
     {
@@ -28,7 +28,7 @@
     {
       "id": "portal",
       "name": "Customer Portal",
-      "status": "operational",
+      "status": "down",
       "response_time_ms": null
     }
   ]
