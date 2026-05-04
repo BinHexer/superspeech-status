@@ -309,6 +309,16 @@
       "resolved_at": null,
       "duration_seconds": null,
       "message": "HTTP 530"
+    },
+    {
+      "id": "inc_20260504230021_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-05-04T23:00:21.461Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
