@@ -316,8 +316,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-05-04T23:00:21.461Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-05-04T23:11:03.123Z",
+      "duration_seconds": 641,
       "message": "timeout of 10000ms exceeded"
     }
   ]
