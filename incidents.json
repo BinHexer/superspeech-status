@@ -326,8 +326,8 @@
       "service_name": "Website",
       "status": "down",
       "started_at": "2026-05-04T23:33:19.253Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-05-04T23:44:02.971Z",
+      "duration_seconds": 643,
       "message": "getaddrinfo EAI_AGAIN superspeech.live"
     },
     {
@@ -336,8 +336,8 @@
       "service_name": "Customer Portal",
       "status": "down",
       "started_at": "2026-05-04T23:33:19.253Z",
-      "resolved_at": null,
-      "duration_seconds": null,
+      "resolved_at": "2026-05-04T23:44:02.971Z",
+      "duration_seconds": 643,
       "message": "getaddrinfo EAI_AGAIN app.superspeech.live"
     }
   ]
