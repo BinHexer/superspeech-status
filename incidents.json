@@ -319,6 +319,26 @@
       "resolved_at": "2026-05-04T23:11:03.123Z",
       "duration_seconds": 641,
       "message": "timeout of 10000ms exceeded"
+    },
+    {
+      "id": "inc_20260504233319_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-05-04T23:33:19.253Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "getaddrinfo EAI_AGAIN superspeech.live"
+    },
+    {
+      "id": "inc_20260504233319_portal",
+      "service_id": "portal",
+      "service_name": "Customer Portal",
+      "status": "down",
+      "started_at": "2026-05-04T23:33:19.253Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "getaddrinfo EAI_AGAIN app.superspeech.live"
     }
   ]
 }
