@@ -339,6 +339,16 @@
       "resolved_at": "2026-05-04T23:44:02.971Z",
       "duration_seconds": 643,
       "message": "getaddrinfo EAI_AGAIN app.superspeech.live"
+    },
+    {
+      "id": "inc_20260506174412_landing",
+      "service_id": "landing",
+      "service_name": "Website",
+      "status": "down",
+      "started_at": "2026-05-06T17:44:12.977Z",
+      "resolved_at": null,
+      "duration_seconds": null,
+      "message": "timeout of 10000ms exceeded"
     }
   ]
 }
